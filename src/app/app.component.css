@@ -1,0 +1,9 @@
+.sidenav {
+    width: 25%;
+    padding: 20px;
+}
+  
+/* 確認用 */
+.sidenav {
+    background-color: gold;
+}
